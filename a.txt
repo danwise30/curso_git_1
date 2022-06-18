@@ -1,5 +1,5 @@
 Editei esse
-aqruivo
+arquivo
 com texto
 para testar também o 
 comando pull no git
