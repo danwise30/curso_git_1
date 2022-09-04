@@ -1,5 +1,0 @@
-Testando repositorio no gi curso de GIT, e adicionando algumas modificações
-a
-b
-c
-d
