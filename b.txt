@@ -1,1 +1,3 @@
 Testando atualização do repo
+
+DESENVOLVENDO FUNCIONALIDADE B - Enviando a funcionalidade x
